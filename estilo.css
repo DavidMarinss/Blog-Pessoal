@@ -1,0 +1,84 @@
+body{
+    background-color: #f2f4f5;
+    margin: 0%;
+}
+header{
+    width: 100%;
+    height: 60px;
+    background-color: #9013fe;
+    display: block;
+}
+main{
+    width: 1000px;
+    height: 870px;
+    display: block;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+span {
+    margin-right: 40px;
+    margin-left: 20px;
+    border-radius: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: red;
+}
+
+.dados1 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px 2px;
+    margin: 30px;
+}
+
+.dados2 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px 2px;
+    margin: 30px;
+}
+
+p {
+    margin-right: 40px;
+    margin-left: 20px;
+}
+.box1{
+    width: 400px;
+    height: 310px;
+    display: inline-block;
+    background-color: aqua;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 25px;
+ }
+ .box2{ 
+    width: 400px;
+    height: 310px;
+    display: inline-block;
+    background-color: blue;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+ }
+
+.paragrafo1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+    display: table;
+    text-align: center;
+ 
+}
+
+.paragrafo2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: table;
+    text-align: center;
+}
+.cabecalhos{
+    text-align: center;
+}
+
